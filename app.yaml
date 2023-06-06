@@ -1,0 +1,5 @@
+runitme: go
+env: flex:
+manual-scaling: 
+      instances: 1 
+      
