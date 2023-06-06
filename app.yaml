@@ -1,5 +1,2 @@
-runtime: go
-env: flex:
-manual-scaling: 
-      instances: 1 
+runtime: go116
       
