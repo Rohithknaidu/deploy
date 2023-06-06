@@ -1,4 +1,4 @@
-runitme: go
+runtime: go
 env: flex:
 manual-scaling: 
       instances: 1 
