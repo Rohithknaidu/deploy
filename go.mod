@@ -1,3 +1,3 @@
-module github.com
+module github.com/Rohithknaidu/deploy
 
-go 1.19
+go 1.16
